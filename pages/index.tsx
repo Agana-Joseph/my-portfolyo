@@ -91,7 +91,7 @@ export default function Home() {
                 Software Development
               </h3>
               <p className="py-2">
-               Trust me with these Languages and i will develope the impossible!
+               Trust me with these Languages and i will build the impossible!
               </p>
               <h4 className="py-4 text-teal-600">Languages Are:</h4>
               <p className="text-gray-800 py-1">HTML/CSS</p>
@@ -118,7 +118,7 @@ export default function Home() {
             <h3 className='text-2xl py-2 justify-center'>Portfolio</h3>
             <p className='text-md py-5 leading-8 text-gray-600'>Combining the art of design with the art of programming. Translatiing of software wireframes to actual code to produce visual elements of the application.
             </p>
-            <p className='text-md py-5 leading-8 text-gray-600'>Here is the list of some of the projects i have done for clients.</p>
+            <p className='text-md py-5 leading-8 text-gray-600'>Here is the list of some of the projects i have done for prospects.</p>
           </div>
           <div className='flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap'>
             <div className='basis-1/2 flex-1'><Image src={web1} className="rounded-lg object-cover" width={100} height={100} layout="responsive" alt='' /></div>
