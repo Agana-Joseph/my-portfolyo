@@ -49,7 +49,7 @@ export default function Home() {
           <div className='text-5xl flex justify-center gap-16 py-3 text-gray-300'>
             <a href="https://twitter.com/jewels_joseph"><AiFillTwitterCircle /></a>
             <a href="https://www.linkedin.com/in/onahi-joseph-349603222/"><AiFillLinkedin /></a>
-            <a href="https://www.instagram.com/jj_onahi//"><AiFillInstagram /></a>
+            <a href="https://www.instagram.com/jj_onahi/"><AiFillInstagram /></a>
             <a href="https://wa.me/message/AR73FKBYUDO7H1"><BsWhatsapp /></a>
           </div>
           <div className='relative mx-auto bg-gradient-to-b from-teal-600 to-teal-200 rounded-full w-40 h-40 mt-10 overflow-hidden md:h-96 md:w-96'>
