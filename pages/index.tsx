@@ -57,12 +57,13 @@ export default function Home() {
           </div>
         </section>
         <section>
-          <div>
-            <h3 className='text-2xl font-bold py-2 justify-center'>My Expertise</h3>
-            <p className='text-md py-5 leading-8 text-gray-300'>
-            II&apos;ve consulted for startups and collaborated with talented individuals to create digital products for both business and consumer users.
-            </p>
-          </div>
+        <div>
+  <h3 className='text-2xl font-bold py-2 justify-center'>My Expertise</h3>
+  <p className='text-md py-5 leading-8 text-gray-300'>
+    I&apos;ve consulted for startups and collaborated with talented individuals to create digital products for both business and consumer users.
+  </p>
+</div>
+
           <div className="lg:flex gap-10">
             <div className="text-center shadow-lg p-10 rounded-xl my-10 bg-gray-300 flex-1">
               <Image src={design} width={100} height={100} alt='' />
