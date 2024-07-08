@@ -49,7 +49,7 @@ export default function Home() {
           <div className='text-5xl flex justify-center gap-16 py-3 text-gray-300'>
             <a href="https://twitter.com/jewels_joseph"><AiFillTwitterCircle /></a>
             <a href="https://www.linkedin.com/in/onahi-joseph-349603222/"><AiFillLinkedin /></a>
-            <a href="https://www.instagram.com/jj_josephjewels/"><AiFillInstagram /></a>
+            <a href="https://www.instagram.com/jj_onahi//"><AiFillInstagram /></a>
             <a href="https://wa.me/message/AR73FKBYUDO7H1"><BsWhatsapp /></a>
           </div>
           <div className='relative mx-auto bg-gradient-to-b from-teal-600 to-teal-200 rounded-full w-40 h-40 mt-10 overflow-hidden md:h-96 md:w-96'>
@@ -58,12 +58,11 @@ export default function Home() {
         </section>
         <section>
         <div>
-  <h3 className='text-2xl font-bold py-2 justify-center'>My Expertise</h3>
-  <p className='text-md py-5 leading-8 text-gray-300'>
-    I&apos;ve consulted for startups and collaborated with talented individuals to create digital products for both business and consumer users.
-  </p>
-</div>
-
+           <h3 className='text-2xl font-bold py-2 justify-center'>My Expertise</h3>
+           <p className='text-md py-5 leading-8 text-gray-300'>
+           I&apos;ve consulted for startups and collaborated with talented individuals to create digital products for both business and consumer users.
+           </p>
+         </div>
           <div className="lg:flex gap-10">
             <div className="text-center shadow-lg p-10 rounded-xl my-10 bg-gray-300 flex-1">
               <Image src={design} width={100} height={100} alt='' />
