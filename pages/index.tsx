@@ -60,7 +60,7 @@ export default function Home() {
           <div>
             <h3 className='text-2xl font-bold py-2 justify-center'>My Expertise</h3>
             <p className='text-md py-5 leading-8 text-gray-300'>
-            I've consulted for startups and collaborated with talented individuals to create digital products for both business and consumer users.
+            II&apos;ve consulted for startups and collaborated with talented individuals to create digital products for both business and consumer users.
             </p>
           </div>
           <div className="lg:flex gap-10">
