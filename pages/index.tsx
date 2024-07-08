@@ -71,7 +71,7 @@ export default function Home() {
               <h4 className="py-4 text-teal-600">Design Tools I Use</h4>
               <p className="text-gray-800 py-1">Photoshop</p>
               <p className="text-gray-800 py-1">Illustrator</p>
-              <p className="text-gray-800 py-1">Canva</p>
+              <p className="text-gray-800 py-1">Figma</p>
             </div>
             <div className="text-center shadow-lg p-10 rounded-xl my-10 bg-gray-300 flex-1">
               <Image src={code} width={100} height={100} alt='' />
